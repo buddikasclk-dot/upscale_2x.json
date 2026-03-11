@@ -1,4 +1,4 @@
-# upscale_4x.json
+# upscale_2x.json
 
 Dockerized ComfyUI workflow: Upscale_4x.json
 
