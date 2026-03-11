@@ -1,5 +1,5 @@
 {
-  "input": {
-    "workflow": {}
-  }
+ "input": {
+  "image": "example.jpg"
+ }
 }
